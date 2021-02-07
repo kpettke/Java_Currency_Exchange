@@ -1,0 +1,28 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="first_java_API:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/first_java_API_jar</output-path>
+    <root id="archive" name="first_java_API.jar">
+      <element id="module-output" name="first_java_API" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/mashape/unirest/unirest-java/1.4.9/unirest-java-1.4.9.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpasyncclient/4.1.1/httpasyncclient-4.1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore-nio/4.4.4/httpcore-nio-4.4.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/commons-logging/commons-logging/1.2/commons-logging-1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpmime/4.5.2/httpmime-4.5.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/json/json/20160212/json-20160212.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.2/httpclient-4.5.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.4/httpcore-4.4.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.8.5/gson-2.8.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/commons-codec/commons-codec/1.9/commons-codec-1.9.jar" path-in-jar="/" />
+      <element id="library" level="project" name="Maven: com.mashape.unirest:unirest-java:1.4.9" />
+      <element id="library" level="project" name="Maven: commons-codec:commons-codec:1.9" />
+      <element id="library" level="project" name="Maven: com.google.code.gson:gson:2.8.5" />
+      <element id="library" level="project" name="Maven: commons-logging:commons-logging:1.2" />
+      <element id="library" level="project" name="Maven: org.apache.httpcomponents:httpclient:4.5.2" />
+      <element id="library" level="project" name="Maven: org.apache.httpcomponents:httpcore-nio:4.4.4" />
+      <element id="library" level="project" name="Maven: org.apache.httpcomponents:httpcore:4.4.4" />
+      <element id="library" level="project" name="Maven: org.apache.httpcomponents:httpmime:4.5.2" />
+      <element id="library" level="project" name="Maven: org.json:json:20160212" />
+      <element id="library" level="project" name="Maven: org.apache.httpcomponents:httpasyncclient:4.1.1" />
+    </root>
+  </artifact>
+</component>

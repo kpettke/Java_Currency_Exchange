@@ -18,7 +18,7 @@ public class Main {
 
         //catApi();
         exchange();
-
+        return ;
 
     }
 
@@ -50,7 +50,7 @@ public class Main {
 
         //System.out.println(btc.getRealtimeCurrencyExchangeRate().getBidPrice());  //ALTERNATYWA bez wywoływania metody
         printParsedObject(btc);
-
+        return;
     }
 
     public static void printParsedObject(RealtimeCurrencyExchangeRate realtimeCurrencyExchangeRate) {
