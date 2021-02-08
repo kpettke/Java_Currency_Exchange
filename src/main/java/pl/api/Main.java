@@ -74,7 +74,7 @@ public class Main {
 //            public static void  printPageInfo(Btc btc)
 //            {
 //                System.out.println(btc.getBidPrice());
-//            }Wymieniać się
+//            }Wymieniać się a
 
 
 
