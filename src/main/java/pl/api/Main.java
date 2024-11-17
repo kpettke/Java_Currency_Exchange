@@ -41,7 +41,7 @@ public class Main {
         System.out.println("Podaj walute docelową");
         String currencyTo = scannerTo.nextLine();
 
-        URL urlBTC = new URL("https://www.alphavantage.co/query?function=CURRENCY_EXCHANGE_RATE&from_currency=" + currencyFrom + "&to_currency=" + currencyTo + "&apikey=9RY8VYZ0ITVYTG92");
+        URL urlBTC = new URL("https://www.alphavantage.co/query?function=CURRENCY_EXCHANGE_RATE&from_currency=" + currencyFrom + "&to_currency=" + currencyTo + "APIKEY");
 
 
         InputStreamReader readerBTC = new InputStreamReader(urlBTC.openStream());
@@ -79,4 +79,3 @@ public class Main {
 
 
 
-/// api key 9RY8VYZ0ITVYTG92
